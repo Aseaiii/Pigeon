@@ -8,7 +8,7 @@ The architecture of the IoT, depicted in Figure, provides access via a web or ap
 
 ## Dataset Link
 
-Dataset Link: https://pan.baidu.com/s/12H-aU_S_o9jMgijlIuIYhg  Extracted code：xs49
+
 
 ## Cite
 
