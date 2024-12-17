@@ -11,7 +11,8 @@ Data description: 4,275 records collected from November 1, 2022, to December 1, 
 
 ## Dataset Link
 
-Link: https://pan.baidu.com/s/1Bp0ilA_KWAU00carc-_Gjw  Extraction code: 0k82
+Google Cloud Drive Link: https://drive.google.com/file/d/1N43xAFnoB4vMMhJKQJmNqQgpJOW26ek6/view?usp=sharing
+BaiDu Cloud Link: https://pan.baidu.com/s/1Bp0ilA_KWAU00carc-_Gjw  Extraction code: 0k82
 
 ## Cite
 
